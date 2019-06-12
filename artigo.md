@@ -2,4 +2,6 @@
 
 ## Aqui estará o conteúdo do meu artigo.
 
-``` <?php echo "PHP é > JAVA">```
+```bash
+<?php echo "PHP é > JAVA">
+```
